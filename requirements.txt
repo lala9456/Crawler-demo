@@ -1,2 +1,4 @@
 azure-ai-documentintelligence==1.0.0
 pandas==2.2.3
+openai==1.61.1
+python-dotenv==1.0.1
